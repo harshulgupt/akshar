@@ -2,7 +2,7 @@
 Advanced Knowledge System for Historical Akṣara Recognition
 
 AKSHAR is an advanced deep learning-based framework designed for the transliteration of ancient Brahmi script into modern Devanagari Unicode text. This project aims to assist researchers, historians, and linguists in deciphering, preserving, and studying early South Asian inscriptions by providing an automated, end-to-end transliteration pipeline.
-
+> **Note**: In Sanskrit, Akṣara (अक्षर) refers to a written syllable or character — making it an apt name for a system focused on script recognition and transliteration.
 ---
 
 ## 🔍 Overview
@@ -16,16 +16,16 @@ Brahmi is one of the oldest scripts in South Asia and the ancestor of many moder
 
 AKSHAR addresses these challenges through an end-to-end pipeline integrating:
 
-- 🧠 A custom **CNN-based OCR module** for character recognition  
-- 🔁 A **Transformer-based transliteration engine**  
-- 🧪 Support for multiple **historical Brahmi variants**  
-- 📊 A **confidence scoring system** with optional human-in-the-loop correction  
-- 🧬 A **self-improving feedback loop** using active learning  
-- 🧯 Integration of **explainable AI** to visualize attention weights  
+- A custom **CNN-based OCR module** for character recognition  
+- A **Transformer-based transliteration engine**  
+- Support for multiple **historical Brahmi variants**  
+- A **confidence scoring system** with optional human-in-the-loop correction  
+- A **self-improving feedback loop** using active learning  
+- Integration of **explainable AI** to visualize attention weights  
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 The AKSHAR pipeline comprises the following modules:
 
@@ -38,7 +38,7 @@ The AKSHAR pipeline comprises the following modules:
 
 ---
 
-## 📦 Dataset (Preliminary)
+## Dataset (Preliminary)
 
 > The project uses a combination of public datasets, epigraphic corpora, and synthetically generated inscription images. Detailed dataset statistics and sources will be disclosed after paper publication.
 
@@ -48,7 +48,7 @@ The AKSHAR pipeline comprises the following modules:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 > Full code, pretrained models, and setup instructions will be released post-publication.
 
@@ -79,7 +79,7 @@ For now, this repository contains:
 
 ---
 
-## 👨‍🔬 Intended Use
+## Intended Use
 
 This tool is designed for:
 
