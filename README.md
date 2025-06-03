@@ -1,5 +1,5 @@
 # AKSHAR
-Advanced Knowledge System for Historical Akṣara Recognition
+**A**dvanced **K**nowledge **S**ystem for **H**istorical **A**kṣara **R**ecognition
 
 AKSHAR is an advanced deep learning-based framework designed for the transliteration of ancient Brahmi script into modern Devanagari Unicode text. This project aims to assist researchers, historians, and linguists in deciphering, preserving, and studying early South Asian inscriptions by providing an automated, end-to-end transliteration pipeline.
 > **Note**: In Sanskrit, Akṣara (अक्षर) refers to a written syllable or character — making it an apt name for a system focused on script recognition and transliteration.
@@ -62,8 +62,8 @@ For now, this repository contains:
 
 ## 📈 Performance (Preliminary)
 
-- **OCR Accuracy**: ~95.94% on character-level recognition  
-- **Transliteration Accuracy**: ~97.96% character-level, ~93.87% end-to-end  
+- **OCR Accuracy**: (yet to be determined) on character-level recognition  
+- **Transliteration Accuracy**: (yet to be determined) character-level, (yet to be determined) end-to-end  
 - **Multi-variant Support**: Adaptable to regional/temporal Brahmi variants
 
 ---
